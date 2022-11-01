@@ -11,7 +11,7 @@ float Calculate(float Numeral, char Operation[4])
 	float SecondNumeral;
 	if(strncmp(Operation, "+", 1) == 0)
 	{
-	    printf("Второе слагаемое j: "); 
+	    printf("Второе слагаемое jjkasjdlkajs;ldkal;sd: "); 
 	    scanf("%f",&SecondNumeral); 
 	    return(Numeral + SecondNumeral);
 	}
